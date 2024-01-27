@@ -1,1 +1,1 @@
-# portfolio_resume
+A portfolio created in JavaScript, HTML and CSS.
